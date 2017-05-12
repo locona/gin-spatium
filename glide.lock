@@ -1,6 +1,10 @@
-hash: b68533d40968fb4d5efac2fd7327681b00b0e9814e8c0848f8d00d5901a59b9f
-updated: 2017-05-12T10:45:44.305983916+09:00
+hash: bbf7a063a381ca23ba6fe80597b0384e516a5d9b28b556ae2f8b90602160dce6
+updated: 2017-05-12T10:51:45.482196666+09:00
 imports:
+- name: github.com/facebookgo/grace
+  version: 4afe952a37a495ae4ac0c1d4ce5f66e91058d149
+  subpackages:
+  - gracedemo
 - name: github.com/fsnotify/fsnotify
   version: a904159b9206978bb6d53fcc7a769e5cd726c737
 - name: github.com/garyburd/redigo
